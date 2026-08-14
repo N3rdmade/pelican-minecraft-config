@@ -28,7 +28,7 @@ The plugin has been used on a modded Minecraft server under Pelican with Forge a
 
 ## Installation package
 
-Use the release asset `minecraft-config-v0.2.0.zip`. The ZIP contains the required `minecraft-config/` root directory matching the plugin ID.
+Package the plugin as `minecraft-config-v0.2.0.zip` with a `minecraft-config/` root directory matching the plugin ID, then import it through Pelican's plugin importer.
 
 ## License
 
