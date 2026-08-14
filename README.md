@@ -2,13 +2,11 @@
 
 A Pelican Panel plugin that adds a **Minecraft Config** page to the server sidebar, giving server owners a single GUI for editing `server.properties`, managing the whitelist, and accessing custom or modpack-specific properties without manually editing files.
 
-![Minecraft Config tabs](docs/images/config-tabs.png)
-
 ## Features
 
 ### Server settings
 
-- General, Gameplay, World, Network, RCON / Query, Performance, Resource Pack, and Advanced tabs
+- General, Gameplay, Whitelist, World, Network, RCON / Query, Performance, Resource Pack, and Advanced tabs
 - Toggles for boolean options instead of manually entering `true` / `false`
 - Dropdowns for game mode, difficulty, permission levels, and common world types
 - Validation for ports, player limits, distances, timeouts, and other numeric values
@@ -57,7 +55,7 @@ The plugin is currently owner-only.
 
 ## Installation
 
-Download the release ZIP and import it from:
+Import the packaged release ZIP from:
 
 **Pelican Admin -> Plugins -> Import**
 
